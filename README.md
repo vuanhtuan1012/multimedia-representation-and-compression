@@ -1,4 +1,4 @@
-# multimedia-representation-and-compression
+# Multimedia Representation and Compression
 compute entropy of an image, text; encode/decode text with huffman coding, LZW, LZ77; quantizatize image, signal
 ## Lab 2: Information Theory
 - Compute Entropy of an image
